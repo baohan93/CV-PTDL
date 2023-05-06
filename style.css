@@ -12,6 +12,7 @@ body{
 }
 .clearfix{clear: both;}
 .resume-box{
+    
     width: 800px;
     height: 1400px;
     padding: 50px;
@@ -144,6 +145,7 @@ ul li:before{
     margin-top: 10px;
 }
 .para-2{
+    font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
     text-transform: uppercase;
     color: var(--second-color);
